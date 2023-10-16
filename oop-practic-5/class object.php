@@ -1,6 +1,9 @@
 <?php
-class hello{
+class hello
+{
     public $name;
     public $roll;
-
+    public function hello()
+    {
+    }
 }
