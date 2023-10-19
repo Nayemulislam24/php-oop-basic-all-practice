@@ -13,6 +13,12 @@ class test
 //object 
 //object 
 //object 
+//object 
+//object 
+//object 
+//object 
+//object 
+//object 
 $hello = new test();
 //method call
 $hello->hello();
