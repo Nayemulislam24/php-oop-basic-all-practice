@@ -12,7 +12,6 @@ class chaildclass implements parent1,parent2{
     public function sub($c, $d){
         echo  $c - $d ;
     }
-
 }
 $test = new chaildclass();
 $test->calc(20,30) ;

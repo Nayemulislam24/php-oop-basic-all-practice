@@ -6,7 +6,6 @@ public function __construct($n){
     $this ->name = $n;
     }
 abstract public function show();
-
 }
 
 class B extends  A{
