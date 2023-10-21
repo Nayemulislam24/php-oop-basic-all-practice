@@ -14,3 +14,6 @@ class test
 $hello = new test();
 //method call
 $hello->hello();
+$hello->hello();
+$hello->hello();
+$hello->hello();
